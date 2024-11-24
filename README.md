@@ -31,35 +31,6 @@ Follow the instructions below to get a local copy of the project up and running.
 
 ### Prerequisites
 
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/breast-cancer-classification.git
-Install the necessary dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebook or Python script to explore the dataset, train models, and evaluate performance:
-Jupyter Notebook:
-bash
-Copy code
-jupyter notebook BreastCancerClassification.ipynb
-Python script:
-bash
-Copy code
-python classify_breast_cancer.py
-Example
-To run the models and see results, you can use the BreastCancerClassification.ipynb notebook. It will load the dataset, preprocess the data, train the models, and display evaluation metrics.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-markdown
-Copy code
-
-### Key Points:
-
-- Replace `yourusername` with your GitHub username in the clone URL.
-- Add the appropriate script filenames (`BreastCancerClassification.ipynb` or `classify_breast_cancer.py`) based on your actual file names.
-- You can expand on the "Example" section if needed, for instance, by providing more specific instructions or example outputs.
-
-This `README.md` should provide a comprehensive guide to understand the project, get it up an
